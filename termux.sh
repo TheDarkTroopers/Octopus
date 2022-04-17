@@ -4,3 +4,5 @@ echo -e "${green}Instalando paquetes"
 
 pip install requests
 pip install os
+
+echo -e "${green}Listo"
