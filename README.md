@@ -5,6 +5,8 @@ Herramienta para sacar info de un numero de telefono :D
 
 ![random1.png](https://github.com/D3dSecX/Octopus/blob/main/Images/Screenshot%20from%202022-05-11%2012-56-29.png)
 
+![random2.png](https://github.com/D3dSecX/Octopus/blob/main/Images/Screenshot%20from%202022-05-11%2013-00-46.png)
+
 ## Kali Linux and Parrot Security:
 Step 1. git clone https://github.com/D3dSecX/Octopus.git
 
