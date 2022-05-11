@@ -12,7 +12,7 @@ Step 1. git clone https://github.com/D3dSecX/Octopus.git
 
 Step 2. cd Octopus/
 
-Step 3. python3 octopus.py --help
+Step 3. python3 octopus.py 
 
 ## Termux
 Step 1. git clone https://github.com/D3dSecX/Octopus.git
