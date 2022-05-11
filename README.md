@@ -21,12 +21,12 @@ Step 2. cd Octopus/
 
 Step 3. bash termux.sh
 
-Step 4. python3 octopus.py --help
+Step 4. python3 octopus.py
 
 # Use
 
 ## Examples:
 
-python3 octopus.py --number +526648004733
+python3 octopus.py --num +526648004733
 
 python3 octopus.py -n +526648004733
