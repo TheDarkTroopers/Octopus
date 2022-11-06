@@ -1,7 +1,7 @@
 # Octopus
-Herramienta para sacar info de un numero de telefono :D
+Herramienta para sacar info de un número de teléfono :D
 
-# Instalacion
+# Instalación
 
 ![random1.png](https://github.com/D3dSecX/Octopus/blob/main/Images/Screenshot%20from%202022-05-11%2012-56-29.png)
 
