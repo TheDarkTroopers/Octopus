@@ -8,14 +8,14 @@ Herramienta para sacar info de un numero de telefono :D
 ![random2.png](https://github.com/D3dSecX/Octopus/blob/main/Images/Screenshot%20from%202022-05-11%2013-00-46.png)
 
 ## Kali Linux and Parrot Security:
-Step 1. git clone https://github.com/D3dSecX/Octopus.git
+Step 1. git clone https://github.com/GhosTCyka/Octopus.git
 
 Step 2. cd Octopus/
 
 Step 3. python3 octopus.py 
 
 ## Termux
-Step 1. git clone https://github.com/D3dSecX/Octopus.git
+Step 1. git clone https://github.com/GhosTCyka/Octopus.git
 
 Step 2. cd Octopus/
 
